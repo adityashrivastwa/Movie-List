@@ -1,5 +1,7 @@
 .MoviePage {
     color:#39FF14;
+    width:80%;
+    margin:auto;
 }
 .MoviePage Input{
     border: 1px solid gray;
