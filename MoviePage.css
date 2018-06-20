@@ -1,0 +1,14 @@
+.MoviePage {
+    color:#39FF14;
+}
+.MoviePage Input{
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+.MoviePage Button{
+    cursor: pointer;
+    border: 1px solid brown;
+    border-radius: 5px;
+}
+
