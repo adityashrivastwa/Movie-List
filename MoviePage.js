@@ -9,7 +9,7 @@ class MoviePage extends Component {
         return (
             <Aux>
                 <Row>
-                    <div className={classes.MoviePage}> <h1 style={{ textAlign: 'center' }}>Movie List </h1><br />
+                    <div className={classes.MoviePage}> <h1 style={{ textAlign: 'center',paddingRight:'350px' }}>Movie List </h1><br />
                         <Input type='text'
                             onChange={this.props.changed}
                             value={this.props.value}
